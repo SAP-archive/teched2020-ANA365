@@ -1,8 +1,8 @@
-# ANA365 - Data Integration and Data-Flow Modeling with SAP Data Warehouse Cloud
+# ANA365 - Data Integration and Data Flow Modeling with SAP Data Warehouse Cloud
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called ANA365 - Data Integration and Data Flow Modeling with SAP Data Warehouse Cloud.  
 
 ## Overview
 
