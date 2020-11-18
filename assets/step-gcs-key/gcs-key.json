@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flash-ocean-262507",
+  "private_key_id": "068c214c3525b23adaf5442dcc9d1260b0f99a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqzaUP1Zk6Nfsc\nS/YX3HYQkCHelyfyAKhRKuaaskinsfKi9nh92yzGG3SJNiH62ITu4Pfx5X/Hvy31\n+w4z+IKeOA16zw3P3KN10QtFx6DSklE3eT4wNgc7ZMM8j0Ktxf1/sythXyceDmDb\nWDhkdgDL9Scw+ADOU0EYnwKNnxjfhe2XuAlGkKgnr8k3HO7EuSgeWv4o83qMN0Bd\nSDHzD5EEEnTtiupzX4aLjDfbDDYSSlm/pQ/n18QWuowb6hs4g9elvDqusc6h/4PD\nzI3rkUK9WhW55GE0W74ifB91bFx+2ahtbH4g0TVGzH5m98/4tTglJ9lXWZ8tINCr\njp9AqOKPAgMBAAECggEAQLuroTKs3fjzcKgBXs25GVHm5DuZcgh5wjlmKJ8FFjlE\n4ipTRC+66mIhapdPjYhd6ULt9YmrQgLc4msB2QSITHql8TNj4rGWaeKOSSX9d5Do\nowOaZB814nav39XTyZROHQXEnSS46JU+dCMdTEXEy4fgEJkNhSTceP5as13myV+T\neqtA3aAcO15t2dMkEZSWlK1/I53y8K6CKPDgHzV0UUfQF5BfF6k1amK61flCALH0\n+4H3dsvgKMGtGu1ax16f+MafPGc6VlqN6ya8OGJGvmdNz/GWpFqt/ui9RGsGDcmk\njOKLAOFvNzd9Za4sDs9sGDQsIJUdTr0fxIQWqghPYQKBgQDnVrxEIryW9Es2RCwu\ni7ERx1X6J8q0bUcpCUuPMUtK4ELUL17N4hawb8j87Np2HZ3gMF3cLVGoqWHVEwhs\nuYn0Rl9ZIlHVg+3IPPtWbayzApeDU4/xr8je7ZX45oXl+B4unaOK41DTL5EcaNKA\nW87BAnXt/aFe0qG2GhDyjg+CZwKBgQC9AuNJM7tk6vh2vzs6k9kmA4in5D9xbwxC\n3p+DZxzQbcVuPvtVRm77InXlZcCKUdj2VtQQssJkWfiyyDZIY7XkCc9zgKQX5djL\nhpq4j/yF/i/Cf7tfr+5Z8bDx9gbnZdtXR0qMghQOziEC/ktjD94WQW1VpZsqsK1q\n0hholtKVmQKBgQDjUmC3l2a38yBBF+ZOaqg5ryX2JcnTWBp34ZFlCOxSjGI+/Llt\nGEBxabcXimr1bA7p8L0akVHPqXngFc7Of9dmuQwSm13MsNIkVIApoqX0VZSq0J7+\nwFxjaxVWurdSjmiiJ/c/kDWo//HY98v5o71b/d4CWZuLgPC075I9tojY+wKBgFPF\nzuUn95uwBTXkZiT9WJZfpJb9NB1boayVrU95SS0cKhBF+/F8yT2ntWdaJO9pfWcZ\nbt6DzGLb+b2LvXtyLjEHJBpGXvR0nBUA8NxyfPMKiTKEmJC9kj/tPobPi5nN7FyP\nrXv/P1Kci8ce3FzosH9euk3mm5JdQk+BFO5uQqGpAoGASQd4B8bMPyT67cW5Ir4/\n9U86mjrKLNxi4STJ0cTI1KCwhyvZ/GsgLSJSo8shPQd8S7AtcQ6AmCGwfoZJEqAx\nc2iuO1RSUMEoPHTYfbF3MFV0j0GC4i1D1XZEEGblHznOKkZ//eZrCADyBbwg2dqT\n+O9rcYUM9+yXPGLwvqw2gKE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teched2020-ana365@flash-ocean-262507.iam.gserviceaccount.com",
+  "client_id": "112726215049192373294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teched2020-ana365%40flash-ocean-262507.iam.gserviceaccount.com"
+}
