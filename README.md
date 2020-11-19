@@ -6,15 +6,11 @@ This repository contains the material for the SAP TechEd 2020 session called ANA
 
 ## Overview
 
-This session introduces attendees to...
-
-## Requirements
-
-The requirements to follow the exercises in this repository are...
+Learn how embedded data integration services of the SAP Data Warehouse Cloud solution to integrate data from different sources, including data lakes in the context of data flows. Discover how to apply transformations and model data pipelines.
 
 ## Exercises
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](exercises/Manual.pdf).
 
 ## How to obtain support
 
